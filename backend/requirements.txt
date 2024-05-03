@@ -1,0 +1,9 @@
+flask
+flask_cors
+pandas
+scikit-learn==1.2.2
+requests
+tensorflow==2.13.0
+tensorflow_hub
+
+#pip install -r requirements.txt

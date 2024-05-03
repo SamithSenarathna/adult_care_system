@@ -1,0 +1,33 @@
+.navbar {
+    background-color: #000; /* Dark background color */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+    color: #fff; /* Text color */
+  }
+  
+  .logo img {
+    max-height: 40px; /* Adjust the height as needed */
+  }
+
+  .logo-txt {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .nav-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin: 0 10px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #fff; /* Link color */
+  }
